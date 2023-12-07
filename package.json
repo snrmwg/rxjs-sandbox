@@ -1,0 +1,11 @@
+{
+  "name": "rxjs-sandbox",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marc Schneider <snr.mwg@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
